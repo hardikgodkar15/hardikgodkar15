@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[Your Current Project]** — explain briefly what it does  
 - 🌱 I’m learning **[Technologies/Languages]**  
-- 👯 I’m looking to collaborate on **[Type of Projects]**  
+- 👯 I’m looking to collaborate on **[Type of Projects]**   
 - 🤔 I’m looking for help with **[Areas you want help with]**  
 - 💬 Ask me about anything related to **[Your Strengths]**  
 - 📫 How to reach me: **your-email@example.com**  
